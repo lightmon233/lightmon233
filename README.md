@@ -12,8 +12,22 @@
 - 📝 Sharing thoughts on [My Blog](https://www.cnblogs.com/lightmon5210)
 - 📫 Reach me at **lightmon5210@outlook.com**
 - ⚡ Fun fact: **My Main Queen:** ![Serena](https://upload.wikimedia.org/wikipedia/en/d/d5/Serena_XY2.png)
-<p align="center">
-  <img src="https://img.shields.io/badge/I%20use%20Arch%2C%20btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="I use Arch, btw" />
+<p align="left">
+  <img src="https://via.placeholder.com/20x30?text=I" alt="I" />
+  <img src="https://via.placeholder.com/20x30?text= " alt=" " />
+  <img src="https://via.placeholder.com/20x30?text=u" alt="u" />
+  <img src="https://via.placeholder.com/20x30?text=s" alt="s" />
+  <img src="https://via.placeholder.com/20x30?text=e" alt="e" />
+  <img src="https://via.placeholder.com/20x30?text= " alt=" " />
+  <img src="https://via.placeholder.com/20x30?text=A" alt="A" />
+  <img src="https://via.placeholder.com/20x30?text=r" alt="r" />
+  <img src="https://via.placeholder.com/20x30?text=c" alt="c" />
+  <img src="https://via.placeholder.com/20x30?text=h" alt="h" />
+  <img src="https://via.placeholder.com/20x30?text=," alt="," />
+  <img src="https://via.placeholder.com/20x30?text= " alt=" " />
+  <img src="https://via.placeholder.com/20x30?text=b" alt="b" />
+  <img src="https://via.placeholder.com/20x30?text=t" alt="t" />
+  <img src="https://via.placeholder.com/20x30?text=w" alt="w" />
 </p>
 
 ---
