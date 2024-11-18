@@ -12,8 +12,14 @@
 - ⚡ Fun fact: **我的朋友很少**
 
 ## 🌐 Connect with Me
-[![Codeforces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg)](https://codeforces.com/profile/lightmon)
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/lightmon5210)
+<p align="center">
+  <a href="https://codeforces.com/profile/lightmon" target="_blank">
+    ![Codeforces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg)
+  </a>
+  <a href="https://twitter.com/lightmon5210" target="_blank">
+    ![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)
+  </a>
+</p>
 
 ## 💻 Languages and Tools
 <p align="center">
