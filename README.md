@@ -74,14 +74,14 @@
 
 ## 🎵 What I'm Listening To
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Currently Playing" />
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&redirect=true)
 </div>
 
 ---
 
 ## 🛠️ Projects Showcase
 <div align="center">
-  <a href="https://github.com/lightmon233/Memento">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lightmon233&repo=Memento&theme=onedark" alt="Memento Project" />
+  <a href="https://github.com/lightmon233/MyJellyfin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lightmon233&repo=MyJellyfin&theme=onedark" alt="Movie-Scrape Project" />
   </a>
 </div>
