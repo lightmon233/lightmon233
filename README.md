@@ -14,6 +14,7 @@
 - ⚡ Fun fact: **My Main Queen:** ![Serena](https://upload.wikimedia.org/wikipedia/en/d/d5/Serena_XY2.png)
 - ❤️ My wifus:
   ![Yuki Nagato](https://static.wikia.nocookie.net/p__/images/d/d3/Yuki.png/revision/latest?cb=20120324172223&path-prefix=protagonist)
+  ![Atri](https://img.moegirl.org.cn/common/thumb/5/56/Img_atri.png/420px-Img_atri.png)
 -  <p align="left"><img src="https://img.shields.io/badge/I%20use%20Arch%2C%20btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="I use Arch, btw" /></p>
 
 ---
