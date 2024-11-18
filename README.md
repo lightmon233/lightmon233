@@ -11,7 +11,7 @@
 - 🔭 Currently working on [Memento](https://github.com/lightmon233/Memento)
 - 📝 Sharing thoughts on [My Blog](https://www.cnblogs.com/lightmon5210)
 - 📫 Reach me at **lightmon5210@outlook.com**
-- ⚡ Fun fact: **我的朋友很少**
+- ⚡ Fun fact: **My Main Queen:** ![Serena](https://upload.wikimedia.org/wikipedia/en/d/d5/Serena_XY2.png)
 
 ---
 
@@ -73,9 +73,8 @@
 ---
 
 ## 🎵 What I'm Listening To
-
-<div style="text-align: center;">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile">
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile"
 </div>
 
 ---
