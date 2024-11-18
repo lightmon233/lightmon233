@@ -12,22 +12,22 @@
 - 📝 Sharing thoughts on [My Blog](https://www.cnblogs.com/lightmon5210)
 - 📫 Reach me at **lightmon5210@outlook.com**
 - ⚡ Fun fact: **My Main Queen:** ![Serena](https://upload.wikimedia.org/wikipedia/en/d/d5/Serena_XY2.png)
-<p align="left">
-  <img src="https://via.placeholder.com/20x30?text=I" alt="I" />
-  <img src="https://via.placeholder.com/20x30?text= " alt=" " />
-  <img src="https://via.placeholder.com/20x30?text=u" alt="u" />
-  <img src="https://via.placeholder.com/20x30?text=s" alt="s" />
-  <img src="https://via.placeholder.com/20x30?text=e" alt="e" />
-  <img src="https://via.placeholder.com/20x30?text= " alt=" " />
-  <img src="https://via.placeholder.com/20x30?text=A" alt="A" />
-  <img src="https://via.placeholder.com/20x30?text=r" alt="r" />
-  <img src="https://via.placeholder.com/20x30?text=c" alt="c" />
-  <img src="https://via.placeholder.com/20x30?text=h" alt="h" />
-  <img src="https://via.placeholder.com/20x30?text=," alt="," />
-  <img src="https://via.placeholder.com/20x30?text= " alt=" " />
-  <img src="https://via.placeholder.com/20x30?text=b" alt="b" />
-  <img src="https://via.placeholder.com/20x30?text=t" alt="t" />
-  <img src="https://via.placeholder.com/20x30?text=w" alt="w" />
+<p align="left" style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/I.svg" alt="I" height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/space.svg" alt=" " height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/U.svg" alt="U" height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/S.svg" alt="S" height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/E.svg" alt="E" height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/space.svg" alt=" " height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/A.svg" alt="A" height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/R.svg" alt="R" height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/C.svg" alt="C" height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/H.svg" alt="H" height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/comma.svg" alt="," height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/space.svg" alt=" " height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/B.svg" alt="B" height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/T.svg" alt="T" height="30"/>
+  <img src="https://raw.githubusercontent.com/arch-linux-art/fonts/main/W.svg" alt="W" height="30"/>
 </p>
 
 ---
