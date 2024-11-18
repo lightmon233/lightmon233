@@ -5,32 +5,45 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lightmon233&theme=onedark&no-frame=true&row=1&column=6" alt="lightmon233 trophy" />
 </div>
 
+---
+
 ## 🚀 About Me
 - 🔭 Currently working on [Memento](https://github.com/lightmon233/Memento)
 - 📝 Sharing thoughts on [My Blog](https://www.cnblogs.com/lightmon5210)
 - 📫 Reach me at **lightmon5210@outlook.com**
 - ⚡ Fun fact: **我的朋友很少**
 
+---
+
 ## 🌐 Connect with Me
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
   <a href="https://codeforces.com/profile/lightmon" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lightmon" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Codeforces-lightblue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://twitter.com/lightmon5210" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lightmon twitter" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</p>
+  <a href="mailto:lightmon5210@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
 
 ## 💻 Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=babel,bash,c,cpp,django,docker,electron,git,html,java,js,linux,nestjs,nginx,nodejs,python,qt,react,sqlite,tailwind,ts,vue,webpack" alt="skills" />
 </p>
 
+---
+
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightmon233&show_icons=true&theme=onedark&locale=en&layout=compact" alt="lightmon233 top languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lightmon233&show_icons=true&theme=onedark&locale=en" alt="lightmon233 github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightmon233&show_icons=true&theme=onedark&locale=en&layout=compact" alt="lightmon233 top languages" />
 </div>
+
+---
 
 ## 🕰️ Recent Activity
 <div align="center">
@@ -41,7 +54,34 @@
   </picture>
 </div>
 
+---
+
+## 🎯 Achievements
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightmon233&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lightmon233&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lightmon233&theme=github_dark" alt="Repositories Per Language" />
+</div>
+
+---
+
 ## 📈 Profile Views
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/lightmon233/count.svg" />
 </p>
+
+---
+
+## 🎵 What I'm Listening To
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Currently Playing" />
+</div>
+
+---
+
+## 🛠️ Projects Showcase
+<div align="center">
+  <a href="https://github.com/lightmon233/Memento">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lightmon233&repo=Memento&theme=onedark" alt="Memento Project" />
+  </a>
+</div>
