@@ -12,11 +12,11 @@
 - ⚡ Fun fact: **我的朋友很少**
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://codeforces.com/profile/lightmon" target="_blank" style="text-decoration: none; margin: 0 10px;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://codeforces.com/profile/lightmon" target="_blank" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lightmon" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/lightmon5210" target="_blank" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://twitter.com/lightmon5210" target="_blank" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lightmon twitter" height="30" width="40" />
   </a>
 </p>
