@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lightmon</h1>
+![image](https://github.com/user-attachments/assets/cbe3fee9-9546-4c27-b535-951460bbeac2)<h1 align="center">Hi 👋, I'm Lightmon</h1>
 <h3 align="center">A passionate developer who enjoys exploring new technologies</h3>
 
 <div align="center">
@@ -12,6 +12,8 @@
 - 📝 Sharing thoughts on [My Blog](https://www.cnblogs.com/lightmon5210)
 - 📫 Reach me at **lightmon5210@outlook.com**
 - ⚡ Fun fact: **My Main Queen:** ![Serena](https://upload.wikimedia.org/wikipedia/en/d/d5/Serena_XY2.png)
+- ❤️ My wifus:
+  ![Yuki Nagato](https://static.wikia.nocookie.net/p__/images/d/d3/Yuki.png/revision/latest?cb=20120324172223&path-prefix=protagonist)
 -  <p align="left"><img src="https://img.shields.io/badge/I%20use%20Arch%2C%20btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="I use Arch, btw" /></p>
 
 ---
