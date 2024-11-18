@@ -73,8 +73,11 @@
 ---
 
 ## 🎵 What I'm Listening To
+## 🎵 What I'm Listening To
 <p align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&redirect=true)
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&redirect=true">
+    ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+  </a>
 </p>
 
 ---
