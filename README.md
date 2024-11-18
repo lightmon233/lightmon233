@@ -15,16 +15,18 @@
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Stats
 <div align="center">
-  <a href="https://codeforces.com/profile/lightmon" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-lightblue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://twitter.com/lightmon5210" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:lightmon5210@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lightmon233&show_icons=true&theme=onedark&locale=en" alt="lightmon233 github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightmon233&show_icons=true&theme=onedark&locale=en&layout=compact" alt="lightmon233 top languages" />
+</div>
+
+---
+
+## 🛠️ Projects Showcase
+<div align="center">
+  <a href="https://github.com/lightmon233/MyJellyfin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lightmon233&repo=MyJellyfin&theme=onedark" alt="Movie-Scrape Project" />
   </a>
 </div>
 
@@ -37,10 +39,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Achievements
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lightmon233&show_icons=true&theme=onedark&locale=en" alt="lightmon233 github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightmon233&show_icons=true&theme=onedark&locale=en&layout=compact" alt="lightmon233 top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightmon233&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lightmon233&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lightmon233&theme=github_dark" alt="Repositories Per Language" />
+</div>
+
+---
+
+## 🎵 What I'm Listening To
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile"
 </div>
 
 ---
@@ -56,11 +66,17 @@
 
 ---
 
-## 🎯 Achievements
+## 🌐 Connect with Me
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightmon233&theme=github_dark" alt="Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lightmon233&theme=github_dark" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lightmon233&theme=github_dark" alt="Repositories Per Language" />
+  <a href="https://codeforces.com/profile/lightmon" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-lightblue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://twitter.com/lightmon5210" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:lightmon5210@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
@@ -69,19 +85,3 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/lightmon233/count.svg" />
 </p>
-
----
-
-## 🎵 What I'm Listening To
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3164ji5gvxbjubv5pv5iyvbfmqga&cover_image=true&theme=onedark&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" />
-</div>
-
----
-
-## 🛠️ Projects Showcase
-<div align="center">
-  <a href="https://github.com/lightmon233/MyJellyfin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lightmon233&repo=MyJellyfin&theme=onedark" alt="Movie-Scrape Project" />
-  </a>
-</div>
