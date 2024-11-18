@@ -12,6 +12,9 @@
 - 📝 Sharing thoughts on [My Blog](https://www.cnblogs.com/lightmon5210)
 - 📫 Reach me at **lightmon5210@outlook.com**
 - ⚡ Fun fact: **My Main Queen:** ![Serena](https://upload.wikimedia.org/wikipedia/en/d/d5/Serena_XY2.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/I%20use%20Arch%2C%20btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="I use Arch, btw" />
+</p>
 
 ---
 
