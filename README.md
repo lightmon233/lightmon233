@@ -12,7 +12,7 @@
 - 📝 Sharing thoughts on [My Blog](https://www.cnblogs.com/lightmon5210)
 - 📫 Reach me at **lightmon5210@outlook.com**
 - ⚡ Fun fact: **My Main Queen:** <img src="https://img.moegirl.org.cn/common/9/91/%E8%8E%8E%E8%8E%89%E5%A8%9C_%E5%8A%A8%E7%94%BB%E7%89%88%E8%AE%BE%E5%AE%9A%E5%9B%BE2.png" height="300">
-- ❤️ My wifus:
+- ❤️ My waifus:
   <img src="https://img.moegirl.org.cn/common/thumb/4/4b/Nagato_Yuki2.jpg/420px-Nagato_Yuki2.jpg" height="300">
   <img src="https://img.moegirl.org.cn/common/thumb/5/56/Img_atri.png/420px-Img_atri.png" height="300">
   <img src="https://img.moegirl.org.cn/common/thumb/5/54/Lillie_USUM.png/383px-Lillie_USUM.png" height="300">
