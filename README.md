@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cbe3fee9-9546-4c27-b535-951460bbeac2)<h1 align="center">Hi 👋, I'm Lightmon</h1>
+<h1 align="center">Hi 👋, I'm Lightmon</h1>
 <h3 align="center">A passionate developer who enjoys exploring new technologies</h3>
 
 <div align="center">
@@ -11,7 +11,7 @@
 - 🔭 Currently working on [Memento](https://github.com/lightmon233/Memento)
 - 📝 Sharing thoughts on [My Blog](https://www.cnblogs.com/lightmon5210)
 - 📫 Reach me at **lightmon5210@outlook.com**
-- ⚡ Fun fact: **My Main Queen:** <img src="https://upload.wikimedia.org/wikipedia/en/d/d5/Serena_XY2.png" height="300">
+- ⚡ Fun fact: **My Main Queen:** <img src="https://img.moegirl.org.cn/common/9/91/%E8%8E%8E%E8%8E%89%E5%A8%9C_%E5%8A%A8%E7%94%BB%E7%89%88%E8%AE%BE%E5%AE%9A%E5%9B%BE2.png" height="300">
 - ❤️ My wifus:
   <img src="https://img.moegirl.org.cn/common/thumb/4/4b/Nagato_Yuki2.jpg/420px-Nagato_Yuki2.jpg" height="300">
   <img src="https://img.moegirl.org.cn/common/thumb/5/56/Img_atri.png/420px-Img_atri.png" height="300">
@@ -41,8 +41,11 @@
   <img src="https://img.moegirl.org.cn/common/thumb/7/75/Kasugano_sora_game_CG_ring.jpg/420px-Kasugano_sora_game_CG_ring.jpg" height="300">
   <img src="https://img.moegirl.org.cn/common/thumb/f/fc/Poster.png/420px-Poster.png" height="300">
   <img src="https://img.moegirl.org.cn/common/b/b5/Ikamusumegif.gif" height="300">
-- My husbands:
-  <img src="https://bkimg.cdn.bcebos.com/pic/cefc1e178a82b901001e5ac17e8da9773812ef95?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080" height="300">
+- ❤️ My husbands:
+  <img src="https://img.moegirl.org.cn/common/thumb/5/5b/%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp/330px-%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp.png" height="300">
+  <img src="https://img.moegirl.org.cn/common/thumb/3/39/%E8%BF%AA%E8%BF%A6%E7%AB%8B%E7%BB%98.png/420px-%E8%BF%AA%E8%BF%A6%E7%AB%8B%E7%BB%98.png" height="300">
+  <img src="https://img.moegirl.org.cn/common/thumb/1/17/%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%AB%8B%E7%BB%98.png/420px-%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%AB%8B%E7%BB%98.png" height="300">
+  <img src="https://img.moegirl.org.cn/common/d/df/%E9%9B%B7%E6%AC%A7%E7%AB%8B%E7%BB%98.png" height="300">
 -  <p align="left"><img src="https://img.shields.io/badge/I%20use%20Arch%2C%20btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="I use Arch, btw" /></p>
 
 ---
