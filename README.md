@@ -11,7 +11,7 @@
 - 🔭 Currently working on [Memento](https://github.com/lightmon233/Memento)
 - 📝 Sharing thoughts on [My Blog](https://www.cnblogs.com/lightmon5210)
 - 📫 Reach me at **lightmon5210@outlook.com**
-- ⚡ Fun fact: **My Main Queen:** ![Serena](https://upload.wikimedia.org/wikipedia/en/d/d5/Serena_XY2.png)
+- ⚡ Fun fact: **My Main Queen:** <img src="https://upload.wikimedia.org/wikipedia/en/d/d5/Serena_XY2.png" height="150">
 - ❤️ My wifus:
   ![Yuki Nagato](https://static.wikia.nocookie.net/p__/images/d/d3/Yuki.png/revision/latest?cb=20120324172223&path-prefix=protagonist)
   ![Atri](https://img.moegirl.org.cn/common/thumb/5/56/Img_atri.png/420px-Img_atri.png)
