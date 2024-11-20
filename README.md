@@ -42,6 +42,7 @@
   <img src="https://img.moegirl.org.cn/common/thumb/7/75/Kasugano_sora_game_CG_ring.jpg/420px-Kasugano_sora_game_CG_ring.jpg" height="300">
   <img src="https://img.moegirl.org.cn/common/thumb/f/fc/Poster.png/420px-Poster.png" height="300">
   <img src="https://img.moegirl.org.cn/common/b/b5/Ikamusumegif.gif" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/33/64/112127_crt_Zjpk6.jpg?r=1730807214" height="300">
 - ❤️ My husbandoes:
   <img src="https://img.moegirl.org.cn/common/thumb/5/5b/%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp/330px-%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp.png" height="300">
   <img src="https://img.moegirl.org.cn/common/thumb/3/39/%E8%BF%AA%E8%BF%A6%E7%AB%8B%E7%BB%98.png/420px-%E8%BF%AA%E8%BF%A6%E7%AB%8B%E7%BB%98.png" height="300">
