@@ -45,13 +45,25 @@
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/33/64/112127_crt_Zjpk6.jpg?r=1730807214" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/53/1f/12522_crt_T7pSr.jpg?r=1427917791" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/eb/6c/72433_crt_3G75K.jpg" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/a4/cd/103910_crt_HxAuj.jpg?r=1639922576" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/4e/eb/27371_crt_X00Xg.jpg?r=1610523357" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/c6/36/303_crt_9USuE.jpg?r=1681232400" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/67/2b/48_crt_ug7V1.jpg?r=1641211351" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/49/33/11425_crt_d05Xd.jpg" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/e5/29/11326_crt_C1VU3.jpg" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/da/f3/30629_crt_7S010.jpg" height="300">
+  <img src="https://img.moegirl.org.cn/common/thumb/5/50/%E8%93%9D%E8%8B%A5%E5%86%B0_%E4%BB%8B%E7%BB%8D.jpg/300px-%E8%93%9D%E8%8B%A5%E5%86%B0_%E4%BB%8B%E7%BB%8D.jpg" height="300">
+  
 - ❤️ My husbandoes:
   <img src="https://img.moegirl.org.cn/common/thumb/5/5b/%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp/330px-%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp.png" height="300">
   <img src="https://img.moegirl.org.cn/common/thumb/3/39/%E8%BF%AA%E8%BF%A6%E7%AB%8B%E7%BB%98.png/420px-%E8%BF%AA%E8%BF%A6%E7%AB%8B%E7%BB%98.png" height="300">
   <img src="https://img.moegirl.org.cn/common/thumb/1/17/%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%AB%8B%E7%BB%98.png/420px-%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%AB%8B%E7%BB%98.png" height="300">
   <img src="https://img.moegirl.org.cn/common/d/df/%E9%9B%B7%E6%AC%A7%E7%AB%8B%E7%BB%98.png" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/02/94/2010_crt_7rr33.jpg?r=1720977703" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/98/42/47734_crt_VAmcj.jpg" height="300">
+  
 -  <p align="left"><img src="https://img.shields.io/badge/I%20use%20Arch%2C%20btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="I use Arch, btw" /></p>
-
+  
 ---
 
 ## 📊 GitHub Stats
