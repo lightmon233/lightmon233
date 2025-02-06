@@ -84,6 +84,7 @@
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/60/2b/59586_crt_JYD00.jpg?r=1626587767" height="300">
   <img src="https://lain.bgm.tv/pic/crt/l/b5/15/68266_crt_8SNi8.jpg?_gl=1*57t91i*_ga*NzA0MjE5MDE2LjE3MjU2MDQ0Mzk.*_ga_1109JLGMHN*MTczNjc0NTA4Ny40MS4xLjE3MzY3NDUxMTYuMC4wLjA." height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/62/04/68269_crt_8V8cw.jpg" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/c6/18/26436_crt_OeW5e.jpg?r=1408678628 height="300">
   
 - ❤️ My husbandoes:
   <img src="https://img.moegirl.org.cn/common/thumb/5/5b/%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp/330px-%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp.png" height="300">
