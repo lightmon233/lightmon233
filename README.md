@@ -88,6 +88,7 @@
   <img src="https://static.wikia.nocookie.net/outcoregame/images/4/48/Lumi_reference.png/revision/latest?cb=20220930134749" height="300">
   <img src="https://static.wikia.nocookie.net/outcoregame/images/7/7a/Smiling_Laifu.png/revision/latest?cb=20240813221838" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/5e/7e/36566_crt_AjwW2.jpg?r=1488099771" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/b6/b6/10982_crt_3403t.jpg" height="300">
   
 - ❤️ My husbandoes:
   <img src="https://img.moegirl.org.cn/common/thumb/5/5b/%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp/330px-%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp.png" height="300">
