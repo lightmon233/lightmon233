@@ -89,6 +89,11 @@
   <img src="https://static.wikia.nocookie.net/outcoregame/images/7/7a/Smiling_Laifu.png/revision/latest?cb=20240813221838" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/5e/7e/36566_crt_AjwW2.jpg?r=1488099771" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/b6/b6/10982_crt_3403t.jpg" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/0d/cc/3496_crt_tTekN.jpg?r=1722920559" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/f4/4d/12038_crt_Gi7V7.jpg?r=1421388784" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/40/de/13395_crt_7v9V5.jpg?r=1421388719" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/b1/ca/12043_crt_F8HPN.jpg?r=1421388906" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/3e/e5/336_crt_qUGuD.jpg?r=1425214631" height="300">
   
 - ❤️ My husbandoes:
   <img src="https://img.moegirl.org.cn/common/thumb/5/5b/%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp/330px-%E5%A5%88%E5%85%8B%E7%91%9F%E6%96%AF%E5%B9%BC%E5%B9%B4%E5%BD%A2%E6%80%81%E7%AB%8B%E7%BB%98.webp.png" height="300">
