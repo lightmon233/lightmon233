@@ -52,7 +52,7 @@
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/49/33/11425_crt_d05Xd.jpg" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/e5/29/11326_crt_C1VU3.jpg" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/da/f3/30629_crt_7S010.jpg" height="300">
-  <img src="https://img.moegirl.org.cn/common/thumb/5/50/%E8%93%9D%E8%8B%A5%E5%86%B0_%E4%BB%8B%E7%BB%8D.jpg/300px-%E8%93%9D%E8%8B%A5%E5%86%B0_%E4%BB%8B%E7%BB%8D.jpg" height="300">
+  <img src="https://lain.bgm.tv/r/400/pic/crt/l/5a/40/177026_crt_DWCsS.jpg" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/c0/52/15501_crt_CTf73.jpg?r=1727596789" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/42/3f/79736_crt_939Ep.jpg?r=1597368133" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/ed/08/17960_crt_FQhbh.jpg?r=1462841721" height="300">
