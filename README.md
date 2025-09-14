@@ -96,9 +96,6 @@
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/3e/e5/336_crt_qUGuD.jpg?r=1425214631" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/aa/ca/59848_crt_YlLXl.jpg?r=1682925900" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/45/9e/11807_crt_fWJSU.jpg?r=1434471520" height="300">
-  <img src="https://lain.bgm.tv/r/400/pic/crt/l/bd/3a/152226_crt_whhNd.jpg" height="300">
-  <img src="https://lain.bgm.tv/r/400/pic/crt/l/e4/56/152225_crt_tiSIg.jpg" height="300">
-  <img src="https://lain.bgm.tv/r/400/pic/crt/l/c8/e3/152227_crt_8VHlk.jpg" height="300">
   <img src="https://lain.bgm.tv/r/400/pic/crt/l/c1/b0/10488_crt_jjXcu.jpg" height="300">
   
 - ❤️ My husbandoes:
